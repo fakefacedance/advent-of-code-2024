@@ -1,0 +1,12 @@
+{
+    "name": "aoc24/day6",
+    "authors": [
+        {
+            "name": "fakefacedance",
+            "email": "chernenok.pv@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ds/php-ds": "^1.5"
+    }
+}
